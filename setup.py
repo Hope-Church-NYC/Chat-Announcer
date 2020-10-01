@@ -6,7 +6,7 @@ setup(
     packages=['pyautogui', 'pynput', 'pynput.keyboard', 'time'],
     url='',
     license='MIT',
-    author='Thomas Bruce',
+    author='ExhaustedBiped',
     author_email='exhaustedbiped5@gmail.com',
     description='Auto Announces Text'
 )
